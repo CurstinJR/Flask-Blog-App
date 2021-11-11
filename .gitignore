@@ -1,0 +1,6 @@
+# Python cache ignored
+flaskblog/__pycache__/
+# Database ignored
+flaskblog/site.db
+# Python Venv ingored
+venv
