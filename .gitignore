@@ -1,6 +1,5 @@
 # Python cache ignored
 flaskblog/__pycache__/
-# Database ignored
-flaskblog/site.db
+__pycache__
 # Python Venv ingored
 venv
